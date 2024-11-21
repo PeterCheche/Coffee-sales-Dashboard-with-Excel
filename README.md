@@ -38,5 +38,5 @@
 - Key formulas and functions: [List of formulas and functions used, e.g., SUM, AVERAGE, VLOOKUP, etc.]
 - Data visualization techniques: [List of visualization techniques used, e.g., bar charts, line charts, pie charts, etc.]
 
-> If you have any questions contact, [On my Email](petercheche04@gmail.com)
+> If you have any questions contact, on my email petercheche04@gmail.com
 
