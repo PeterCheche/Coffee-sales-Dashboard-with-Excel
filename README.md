@@ -11,11 +11,11 @@
 
 ## Features
 
-### Answers To Quesstions
-- Who are the top 10 customers.
-- Which country demands our coffee the most
-- Which coffee is the most demanded.
-- What is the trend of each coffee demand over time.
+### Answers Questions
+- Who are the top 10 customers?
+- Which country demands our coffee the most?
+- Which coffee is the most demanded?
+- What is the trend of each coffee demand over time?
 
 ### Interactive Features
 - Timeline
