@@ -9,7 +9,7 @@
 
 ## Introduction
 
-<p> This excel dashboard showws an overview of sale performance. It shows the trend of coffee sales over 4 years. This dashboard can be used to make data driven decisions.</p>
+<p> This excel dashboard shows an overview of sale performance. It shows the trend of coffee sales over 4 years. This dashboard can be used to make data driven decisions like performance trneds, Identifying underperforming sellers and products, strategizing market campaigns, forecasting future sales and stocking, allocatiing resources to high potential clients. </p>
 
 ## Features
 
