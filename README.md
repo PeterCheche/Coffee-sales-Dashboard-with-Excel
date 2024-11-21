@@ -1,5 +1,12 @@
 # Coffee-sales-Dashboard
 
+
+[First part of the dashboard](https://drive.google.com/file/d/1aakNVgOfbJ61wJZabLPorel3xwcDXM5N/view?usp=sharing)
+
+[Second Part Of The dashboard](https://drive.google.com/file/d/1C1ByAMkOfqr8xn3E9OnpYeAwNnpkAZAe/view?usp=drive_link)
+
+
+
 ## Introduction
 
 <p> This excel dashboard showws an overview of sale performance. It shows the trend of coffee sales over 4 years. This dashboard can be used to make data driven decisions.</p>
