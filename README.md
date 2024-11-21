@@ -1,9 +1,7 @@
 # Coffee-sales-Dashboard
+![Screenshot (358)](https://github.com/user-attachments/assets/de3a03ca-960a-49a0-b740-fb4c4adab384)
+![Screenshot (359)](https://github.com/user-attachments/assets/e6e3fabe-626b-4d45-bb99-ec03023112c3)
 
-
-[First part of the dashboard](https://drive.google.com/file/d/1aakNVgOfbJ61wJZabLPorel3xwcDXM5N/view?usp=sharing)
-
-[Second Part Of The dashboard](https://drive.google.com/file/d/1C1ByAMkOfqr8xn3E9OnpYeAwNnpkAZAe/view?usp=drive_link)
 
 
 
