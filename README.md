@@ -33,8 +33,8 @@
   
 ### Technical Details
 - Excel version: 2010 or later.
-- Key formulas and functions: [List of formulas and functions used, e.g., SUM, AVERAGE, VLOOKUP, etc.]
-- Data visualization techniques: [List of visualization techniques used, e.g., bar charts, line charts, pie charts, etc.]
+- Key formular, functions, and tools: SUM, AVERAGE, VLOOKUP, Pivot Table and Pivot Chart.
+- Data visualization techniques: Bar Chart, Line Chart and Radar. 
 
 > If you have any questions contact, on my email petercheche04@gmail.com
 
